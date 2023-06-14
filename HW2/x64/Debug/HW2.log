@@ -1,0 +1,11 @@
+﻿  BinModel02.cpp
+  Main.cpp
+  Options04.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\ranges(12): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\annap\source\repos\HW2\Options04.cpp(40,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\annap\source\repos\HW2\Options04.cpp(47,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\annap\source\repos\HW2\Options04.cpp(51,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\annap\source\repos\HW2\Options04.cpp(56,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annap\source\repos\HW2\Options04.cpp(60,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  HW2.vcxproj -> C:\Users\annap\source\repos\HW2\x64\Debug\HW2.exe

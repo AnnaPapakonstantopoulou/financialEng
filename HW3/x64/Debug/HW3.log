@@ -1,0 +1,10 @@
+﻿  BinModel02.cpp
+  Main.cpp
+  Options06.cpp
+C:\Users\annap\source\repos\HW3\Options06.cpp(11,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\annap\source\repos\HW3\Options06.cpp(15,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\annap\source\repos\HW3\Options06.cpp(20,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\annap\source\repos\HW3\Options06.cpp(24,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\annap\source\repos\HW3\Options06.cpp(53,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating Code...
+  HW3.vcxproj -> C:\Users\annap\source\repos\HW3\x64\Debug\HW3.exe
