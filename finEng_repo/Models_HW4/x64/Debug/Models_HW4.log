@@ -1,0 +1,15 @@
+﻿  PathDependentOption03.cpp
+C:\Users\hanna\source\repos\finEng_repo\Models_HW4\Model.h(25,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'PathDependentOption03.cpp')
+  
+C:\Users\hanna\source\repos\finEng_repo\Models_HW4\Model.h(48,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'PathDependentOption03.cpp')
+  
+C:\Users\hanna\source\repos\finEng_repo\Models_HW4\Model.h(67,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'PathDependentOption03.cpp')
+  
+C:\Users\hanna\source\repos\finEng_repo\Models_HW4\PathDependentOption03.cpp(16,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+main_04.obj : error LNK2005: main already defined in main.obj
+main_05.obj : error LNK2005: main already defined in main.obj
+PathDependentOption03.obj : error LNK2005: "public: virtual double __cdecl ArithmeticAsianCall::Payoff(class std::vector<double,class std::allocator<double> > &)" (?Payoff@ArithmeticAsianCall@@UEAANAEAV?$vector@NV?$allocator@N@std@@@std@@@Z) already defined in PathDependentOption01.obj
+C:\Users\hanna\source\repos\finEng_repo\x64\Debug\Models_HW4.exe : fatal error LNK1169: one or more multiply defined symbols found

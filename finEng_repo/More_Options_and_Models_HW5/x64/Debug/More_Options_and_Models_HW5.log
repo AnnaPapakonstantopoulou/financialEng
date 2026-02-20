@@ -1,0 +1,24 @@
+﻿  BarrierCallOption01.h
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\BSModel01.h(20,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'BarrierCallOption01.h')
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(14,62): error C2061: syntax error: identifier 'PathDepOption'
+  (compiling source file 'BarrierCallOption01.h')
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(22,42): error C2061: syntax error: identifier 'PathDepOption'
+  (compiling source file 'BarrierCallOption01.h')
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(30,32): error C2504: 'PathDepOption': base class undefined
+  (compiling source file 'BarrierCallOption01.h')
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(33,56): error C2039: 'T': is not a member of 'ArithmAsianCall'
+  (compiling source file 'BarrierCallOption01.h')
+      C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(30,7):
+      see declaration of 'ArithmAsianCall'
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(33,82): error C2039: 'm': is not a member of 'ArithmAsianCall'
+  (compiling source file 'BarrierCallOption01.h')
+      C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\PathDependentOption04.h(30,7):
+      see declaration of 'ArithmAsianCall'
+  
+C:\Users\hanna\source\repos\finEng_repo\More_Options_and_Models_HW5\BarrierCallOption01.h(6,10): error C1083: Cannot open include file: 'EuropeanCall.h': No such file or directory

@@ -1,0 +1,6 @@
+﻿main_09.obj : error LNK2005: "void __cdecl calculateUandD(double,double &,double &)" (?calculateUandD@@YAXNAEAN0@Z) already defined in main.obj
+x64\Debug\Options03.obj : warning LNK4042: object specified more than once; extras ignored
+main.obj : error LNK2019: unresolved external symbol "double __cdecl PriceByCRR(double,double,double,double,int,double,double (__cdecl*)(double,double))" (?PriceByCRR@@YANNNNNHNP6ANNN@Z@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "double __cdecl CallPayoff(double,double)" (?CallPayoff@@YANNN@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "double __cdecl PriceAnalyticCRR(double,double,double,double,int,double,double (__cdecl*)(double,double))" (?PriceAnalyticCRR@@YANNNNNHNP6ANNN@Z@Z) referenced in function main
+C:\Users\hanna\source\repos\finEng_repo\x64\Debug\finEng_repo_HW1.exe : fatal error LNK1120: 3 unresolved externals

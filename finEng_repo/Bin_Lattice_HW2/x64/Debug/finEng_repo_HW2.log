@@ -1,0 +1,9 @@
+﻿  main09.cpp
+  Options06.cpp
+  Generating Code...
+main_2.obj : error LNK2005: main already defined in main09.obj
+main09.obj : error LNK2019: unresolved external symbol "public: int __cdecl Call::GetInputData(void)" (?GetInputData@Call@@QEAAHXZ) referenced in function main
+main09.obj : error LNK2001: unresolved external symbol "public: virtual double __cdecl Call::Payoff(double)" (?Payoff@Call@@UEAANN@Z)
+main09.obj : error LNK2019: unresolved external symbol "public: int __cdecl Put::GetInputData(void)" (?GetInputData@Put@@QEAAHXZ) referenced in function main
+main09.obj : error LNK2001: unresolved external symbol "public: virtual double __cdecl Put::Payoff(double)" (?Payoff@Put@@UEAANN@Z)
+C:\Users\hanna\source\repos\finEng_repo\x64\Debug\finEng_repo_HW2.exe : fatal error LNK1120: 4 unresolved externals
