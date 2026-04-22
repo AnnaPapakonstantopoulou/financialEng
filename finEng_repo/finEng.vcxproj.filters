@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bin_lattice_hw2\BinModel02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_lattice_hw2\main09.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_lattice_hw2\main_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_lattice_hw2\Options06.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_model_hw1\BinModel01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_model_hw1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_model_hw1\main_09.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_model_hw1\Options03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bs_model_hw3\BSModel01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bs_model_hw3\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bs_model_hw3\PathDependentOption01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="models_hw4\main_04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="models_hw4\main_05.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="models_hw4\main_06.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="models_hw4\Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="models_hw4\PathDependentOption03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="more_options_and_models_hw5\BarrierCallOption01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="more_options_and_models_hw5\EuropeanCallOption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="more_options_and_models_hw5\GeometricAsianOption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="more_options_and_models_hw5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="more_options_and_models_hw5\PathDependentOption04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bin_lattice_hw2\BinLattice02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bin_lattice_hw2\BinModel02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bin_lattice_hw2\Options06.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bin_model_hw1\BinModel01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bin_model_hw1\Options03.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bs_model_hw3\BSModel01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bs_model_hw3\PathDependentOption01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="models_hw4\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="models_hw4\PathDependentOption01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="models_hw4\PathDependentOption03.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="more_options_and_models_hw5\BarrierCallOption01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="more_options_and_models_hw5\BSModel01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="more_options_and_models_hw5\EuropeanCallOption.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="more_options_and_models_hw5\GeometricAsianOption.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="more_options_and_models_hw5\PathDependentOption04.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
